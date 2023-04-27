@@ -11,8 +11,8 @@ jobs:
   test:
     env:
       MONGODB_CLUSTER_ADDRESS: cluster0.wd0hbtg.mongodb.net
-      MONGODB_USERNAME: hossein-ma
-      MONGODB_PASSWORD: fqanAsLQuCaRrfu8
+      MONGODB_USERNAME: hossein123
+      MONGODB_PASSWORD: hossein123
       PORT: 3000
     environment: testing
     runs-on: ubuntu-latest
